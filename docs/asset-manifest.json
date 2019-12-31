@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/2093/sites/visitdubai/static/css/main.1d1eea2a.chunk.css",
+    "main.js": "/2093/sites/visitdubai/static/js/main.e071cdf1.chunk.js",
+    "main.js.map": "/2093/sites/visitdubai/static/js/main.e071cdf1.chunk.js.map",
+    "runtime-main.js": "/2093/sites/visitdubai/static/js/runtime-main.2fa337ae.js",
+    "runtime-main.js.map": "/2093/sites/visitdubai/static/js/runtime-main.2fa337ae.js.map",
+    "static/css/2.43f0038f.chunk.css": "/2093/sites/visitdubai/static/css/2.43f0038f.chunk.css",
+    "static/js/2.2e6b9ca2.chunk.js": "/2093/sites/visitdubai/static/js/2.2e6b9ca2.chunk.js",
+    "static/js/2.2e6b9ca2.chunk.js.map": "/2093/sites/visitdubai/static/js/2.2e6b9ca2.chunk.js.map",
+    "index.html": "/2093/sites/visitdubai/index.html",
+    "precache-manifest.03762c29aad25a2b77329052b105a2ae.js": "/2093/sites/visitdubai/precache-manifest.03762c29aad25a2b77329052b105a2ae.js",
+    "service-worker.js": "/2093/sites/visitdubai/service-worker.js",
+    "static/css/2.43f0038f.chunk.css.map": "/2093/sites/visitdubai/static/css/2.43f0038f.chunk.css.map",
+    "static/css/main.1d1eea2a.chunk.css.map": "/2093/sites/visitdubai/static/css/main.1d1eea2a.chunk.css.map",
+    "static/media/index.css": "/2093/sites/visitdubai/static/media/Muller-Thin.c5e7045e.ttf",
+    "static/media/bgCoupon2.png": "/2093/sites/visitdubai/static/media/bgCoupon2.0b399ae9.png",
+    "static/media/map.png": "/2093/sites/visitdubai/static/media/map.dc0d7627.png",
+    "static/media/quest-map.png": "/2093/sites/visitdubai/static/media/quest-map.670e2bb9.png",
+    "static/media/slick-theme.css": "/2093/sites/visitdubai/static/media/slick.f97e3bbf.svg",
+    "static/media/top-banner.png": "/2093/sites/visitdubai/static/media/top-banner.c080c319.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2fa337ae.js",
+    "static/css/2.43f0038f.chunk.css",
+    "static/js/2.2e6b9ca2.chunk.js",
+    "static/css/main.1d1eea2a.chunk.css",
+    "static/js/main.e071cdf1.chunk.js"
+  ]
+}
