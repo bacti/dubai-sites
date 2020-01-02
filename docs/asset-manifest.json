@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/dubai-sites/static/css/main.3c178ea6.chunk.css",
+    "main.css": "/dubai-sites/static/css/main.f25f6090.chunk.css",
     "main.js": "/dubai-sites/static/js/main.3e03bfaf.chunk.js",
     "runtime-main.js": "/dubai-sites/static/js/runtime-main.b08c8780.js",
     "static/css/2.5b3be5c3.chunk.css": "/dubai-sites/static/css/2.5b3be5c3.chunk.css",
     "static/js/2.45ef4c01.chunk.js": "/dubai-sites/static/js/2.45ef4c01.chunk.js",
     "index.html": "/dubai-sites/index.html",
-    "precache-manifest.c93a89ad1aa02b9e8354f57e29721440.js": "/dubai-sites/precache-manifest.c93a89ad1aa02b9e8354f57e29721440.js",
+    "precache-manifest.b9fcbfa5fd9b62fe03f05d42cac95590.js": "/dubai-sites/precache-manifest.b9fcbfa5fd9b62fe03f05d42cac95590.js",
     "service-worker.js": "/dubai-sites/service-worker.js",
     "static/media/index.css": "/dubai-sites/static/media/Muller-Thin.c5e7045e.ttf",
     "static/media/bgCoupon2.png": "/dubai-sites/static/media/bgCoupon2.0b399ae9.png",
@@ -19,7 +19,7 @@
     "static/js/runtime-main.b08c8780.js",
     "static/css/2.5b3be5c3.chunk.css",
     "static/js/2.45ef4c01.chunk.js",
-    "static/css/main.3c178ea6.chunk.css",
+    "static/css/main.f25f6090.chunk.css",
     "static/js/main.3e03bfaf.chunk.js"
   ]
 }
