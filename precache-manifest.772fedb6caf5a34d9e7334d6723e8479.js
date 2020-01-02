@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4967e515375024a606c24cc9345f2510",
+    "revision": "4bee802b105abfaa9f94baad08ed3912",
     "url": "/dubai-sites/index.html"
   },
   {
-    "revision": "3c55acd44bf235ca3272",
+    "revision": "8d692db00f7ebfa0bd43",
     "url": "/dubai-sites/static/css/2.5b3be5c3.chunk.css"
   },
   {
-    "revision": "b8c51eff598699be73ea",
-    "url": "/dubai-sites/static/css/main.3c178ea6.chunk.css"
+    "revision": "77c3d776d1df50e09739",
+    "url": "/dubai-sites/static/css/main.f25f6090.chunk.css"
   },
   {
-    "revision": "3c55acd44bf235ca3272",
-    "url": "/dubai-sites/static/js/2.2a352d05.chunk.js"
+    "revision": "8d692db00f7ebfa0bd43",
+    "url": "/dubai-sites/static/js/2.45ef4c01.chunk.js"
   },
   {
-    "revision": "b8c51eff598699be73ea",
-    "url": "/dubai-sites/static/js/main.30bacf71.chunk.js"
+    "revision": "77c3d776d1df50e09739",
+    "url": "/dubai-sites/static/js/main.b6789692.chunk.js"
   },
   {
     "revision": "b156a659c51faffb0d4f",
@@ -44,8 +44,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dubai-sites/static/media/map.dc0d7627.png"
   },
   {
-    "revision": "670e2bb96e01280743e3985983d956b6",
-    "url": "/dubai-sites/static/media/quest-map.670e2bb9.png"
+    "revision": "708213e8b5694e46ad2151be003de89a",
+    "url": "/dubai-sites/static/media/quest-map.708213e8.png"
   },
   {
     "revision": "b7c9e1e479de3b53f1e4e30ebac2403a",
