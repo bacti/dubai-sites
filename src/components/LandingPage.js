@@ -166,6 +166,15 @@ function LandingPage({ logged, vouchers, showReward, HideReward })
                         <path d="M9.49516 8.22386L10.1509 7.55357C10.5662 7.131 10.8285 6.55543 10.8285 5.91429C10.8285 5.14137 10.5214 4.40011 9.97488 3.85357C9.42834 3.30704 8.68708 3 7.91416 3C7.14125 3 6.39999 3.30704 5.85345 3.85357C5.30692 4.40011 4.99988 5.14137 4.99988 5.91429H6.45702C6.45702 5.52783 6.61054 5.1572 6.88381 4.88393C7.15708 4.61066 7.52771 4.45714 7.91416 4.45714C8.71559 4.45714 9.37131 5.10557 9.37131 5.91429C9.37131 6.21104 9.2834 6.48782 9.1283 6.71799C9.07397 6.79862 9.01139 6.87353 8.94145 6.94157L8.03802 7.85957C7.51345 8.38414 7.18559 9.11271 7.18559 9.92143V10.2857H8.64274C8.64274 9.19286 8.97059 8.74843 9.49516 8.22386Z" fill="white"/>
                         <path d="M7.1853 13.2001H8.64245V11.7429H7.1853V13.2001Z" fill="white"/>
                     </svg>
+                    {
+                        rout == 'wallet' &&
+                        <Typography component='div' className={classes.textRight}>
+                            Sponsored by
+                            <span style={{ display: 'contents' }}>
+                                <img src={require('../assets/logo-club-apparel.png')} height='32px' style={{ verticalAlign: 'middle' }} />
+                            </span>
+                        </Typography>
+                    }
                 </Button>
             </ListItemText>
             <Button className={classes.textButton} component={Link} to={`/${rout}`}
