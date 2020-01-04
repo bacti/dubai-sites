@@ -1,39 +1,41 @@
 import React from 'react'
 import { makeStyles } from '@material-ui/core/styles'
-import { CircularProgress } from '@material-ui/core'
+import { Typography, CircularProgress } from '@material-ui/core'
 
 const useStyles = makeStyles
 (
     theme =>
     ({        
-        bgWhite: {
+        bgWhite:
+        {
             zIndex: 2000,
             backgroundColor: '#ffffff',
             opacity: '0.9',
             position: 'fixed',
             width: '100%',
-            height: '100%'            
+            height: '100%',
+            display: 'flex',
+            'flex-direction': 'column',
+            'justify-content': 'center',
         },
-        loadingIcon: {
-            zIndex: 2001,
-            position: 'absolute',
-            left: '50%',
-            top: '50%',
-            textAlign: 'center',
-            transform: 'translate(-50%, 0)'
+        loadingIcon:
+        {
+            'z-index': 3001,
+            'align-self': 'center',
+            'color': '#C3163A',
         }
     })
 )
 
-export default function LoadingIndicator(props)
+export default function LoadingIndicator({ loading })
 {
     const classes = useStyles();
-    const { loading } = props;
+    if (!loading)
+        return null
     
     return (
-        <div style={{ display: loading ? 'block' : 'none'}}>
-            <div className={classes.bgWhite}></div>
+        <Typography component='div' className={classes.bgWhite}>
             <CircularProgress className={classes.loadingIcon} />
-        </div>
+        </Typography>
     )    
 }
