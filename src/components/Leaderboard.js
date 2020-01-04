@@ -36,7 +36,7 @@ const useStyles = makeStyles
             'border-bottom': 'solid 1px #F6F6F6',
         },
         rowUser: {
-            backgroundColor: '#EAEAEA'
+            backgroundColor: '#EDF9FD'
         },
         avatarSide: {
             width: 56,
@@ -163,18 +163,28 @@ function Leaderboard({ leaderboard, home })
             <Typography component='div' style={{ width: '100%', background: '#FDEDF1' }}>
                 <TopPlayers  />
             </Typography>
-            <Grid item xs={12} style={{ padding: `0px ${PAGE_PADDING}px ${PAGE_PADDING}px ${PAGE_PADDING}px` }}>
+            <Grid item xs={12} style={{ paddingBottom: PAGE_PADDING }}>
                 <Table className={classes.tableLeaderBoard} aria-label='simple table'>
                     <TableBody>
                     {
                         GetList().slice(3).map((row, i) =>
                         (
                             <TableRow key={i} className={ IsPlayer(row) ? classes.rowUser : classes.rowNormal }>
-                                <TableCell align='left' component='th' scope='row' className={classes.removeBorderBottom}>
+                                <TableCell align='left' component='th' scope='row' className={classes.removeBorderBottom}
+                                    style={{ paddingLeft: PAGE_PADDING }}
+                                >
                                     { i + 4 }
                                 </TableCell>
-                                <TableCell align='left' className={classnames(classes.removeBorderBottom)}>{row.display_name}</TableCell>
-                                <TableCell align='right' className={classnames(classes.removeBorderBottom)} style={{ paddingRight: 0 }}>{row.score}</TableCell>
+                                <TableCell align='left' className={classnames(classes.removeBorderBottom)}
+                                    style={{ padding: 0 }}
+                                >
+                                    {row.display_name}
+                                </TableCell>
+                                <TableCell align='right' className={classnames(classes.removeBorderBottom)}
+                                    style={{ paddingRight: PAGE_PADDING }}
+                                >
+                                    {row.score}
+                                </TableCell>
                             </TableRow>
                         ))
                     }
