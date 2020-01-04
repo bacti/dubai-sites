@@ -18,8 +18,11 @@ const useStyles = makeStyles
         anonymous : 
         {
             color: '#ff0000 !important', 
-            fontFamily: 'Muller-ExtraBold', 
-            fontSize: 10
+            fontFamily: 'Muller',
+            fontSize: 14,
+            position: 'fixed',
+            'overflow-wrap': 'break-word',
+            width: '100%',
         }
     })
 )
@@ -53,8 +56,6 @@ const theme = createMuiTheme
 export default function AppFooter()
 {
     const { root, anonymous } = useStyles()
-    let ano = window.anonymous;
-    
     return (
         <MuiThemeProvider theme={theme}>
             <Switch>
@@ -70,8 +71,8 @@ export default function AppFooter()
                                 <Button component={Typography}>
                                     Privacy Policy
                                 </Button>
-                                <Typography className={anonymous}>{ano}</Typography>
                             </Toolbar>
+                            <Typography className={anonymous}>{window.anonymous}</Typography>
                             <Divider />
                         </AppBar>
                     </Typography>

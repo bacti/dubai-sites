@@ -3,7 +3,7 @@ import React from 'react'
 import { connect } from 'redux-zero/react'
 import actions from '../generic/Actions'
 import { makeStyles } from '@material-ui/core/styles'
-import { Grid } from '@material-ui/core'
+import { Grid, Typography, ListItem } from '@material-ui/core'
 import TrackingManager from 'ets-tracking'
 import Defines from '../generic/Defines'
 
@@ -21,7 +21,7 @@ const useStyles = makeStyles
             paddingRight: PAGE_PADDING,
         },        
         container: {
-            backgroundColor: '#FAFAFA',
+            backgroundColor: '#FFFFFF',
             padding: '20px 0px',
             height: '100%'
         },
@@ -32,8 +32,20 @@ const useStyles = makeStyles
         gridContainer: {
             overflow: 'hidden',
             height: 140
-        }
-        
+        },
+        sponsor:
+        {
+            'display': 'flex',
+            'padding-bottom': 20,
+            'justify-content': 'center',
+        },
+        text:
+        {
+            fontFamily: 'Muller',
+            textAlign: 'right',
+            fontSize: 12,
+            color: '#959595',
+        },
     })
 )
 
@@ -98,6 +110,14 @@ function Wallet({ home, vouchers})
 
     return (
         <Grid container spacing={0} className={classes.container}>
+            <ListItem className={classes.sponsor}>
+                <Typography component='div' className={classes.text}>
+                    Sponsored by
+                    <span style={{ display: 'contents' }}>
+                        <img src={require('../assets/logo-club-apparel.png')} height='32px' style={{ verticalAlign: 'middle' }} />
+                    </span>
+                </Typography>
+            </ListItem>
             {
                 vouchers.map((row, i) => (
                     <Grid item xs={12} sm={6} md={6} className={classes.coupon} key={i}>
