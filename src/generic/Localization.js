@@ -10,9 +10,10 @@ const texts =
 
         HOME_PAGE_NEXT_REWARD: 'Next Reward',
         HOME_PAGE_REWARD_1: 'Grand prize of AED 25,000 worth of Club Apparel points',
-        HOME_PAGE_REWARD_2: 'An AED 1,000 worth of Club Apparel points',
-        HOME_PAGE_REWARD_3: 'An AED 100 worth of vouchers across 50+ brands',
+        HOME_PAGE_REWARD_2: 'AED 1,000 worth of Club Apparel points',
+        HOME_PAGE_REWARD_3: 'AED 100 worth of vouchers across 50+ brands',
         HOME_PAGE_COMPLETE_LEVEL: 'Complete challenge %%d to get a voucher',
+        HOME_PAGE_COMPLETE_WEEK: 'Complete challenge %%d to get a rewards',
         HOME_PAGE_UNLOCK_LEVEL: 'Unlock new challenge %%d to play',
 
         WELCOME_1: 'welcome to',
