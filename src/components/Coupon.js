@@ -107,8 +107,8 @@ export default function Coupon(props)
                 <div className={classes.content}>
                     <div className={classes.logo}>
                         <div className={classes.logoImage}>
-                            <img width="100%" src={'/images/logos/' + (brand || "").toUpperCase() + ' '+ GetLang() + ".png"}></img>
-                            {/* <img width="100%" src={'/images/logos/AEROPODTALE AR.png'}></img> */}
+                            <img width="100%" src={'./images/logos/' + (brand || "").toUpperCase() + ' '+ GetLang() + ".png"}></img>
+                            {/* <img width="100%" src={'./images/logos/AEROPODTALE AR.png'}></img> */}
                         </div>
                         
                         

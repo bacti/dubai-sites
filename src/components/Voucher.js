@@ -67,7 +67,7 @@ class Voucher extends React.Component {
             voucher ? <MuiThemeProvider theme={theme}>
                 <div style={{ textAlign: "center" }}>
                     <div className={classes.logo}>
-                        <img width="100%" src={'/images/logos/' + (voucher.brand || "").toUpperCase() + ' '+ GetLang() + ".png"}></img>
+                        <img width="100%" src={'./images/logos/' + (voucher.brand || "").toUpperCase() + ' '+ GetLang() + ".png"}></img>
                     </div>
                     {/* <div className={classes.title}>{voucher.brand}</div> */}
                     <div>
