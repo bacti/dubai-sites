@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ddb2db4a3be0a1315b1fc29b21aa7b32",
+    "revision": "d32e4dd50b954a25a91acf4ef434270c",
     "url": "/dubai-sites/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dubai-sites/static/css/2.5b3be5c3.chunk.css"
   },
   {
-    "revision": "94926176172dd1b30ac4",
+    "revision": "0cacfc7285cf85922b08",
     "url": "/dubai-sites/static/css/main.3c178ea6.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dubai-sites/static/js/2.80d02f80.chunk.js"
   },
   {
-    "revision": "94926176172dd1b30ac4",
-    "url": "/dubai-sites/static/js/main.4c444752.chunk.js"
+    "revision": "0cacfc7285cf85922b08",
+    "url": "/dubai-sites/static/js/main.32d35b27.chunk.js"
   },
   {
     "revision": "b156a659c51faffb0d4f",
