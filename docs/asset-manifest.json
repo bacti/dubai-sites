@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/dubai-sites/static/css/main.7debf3a4.chunk.css",
-    "main.js": "/dubai-sites/static/js/main.fd1ad1ec.chunk.js",
-    "runtime-main.js": "/dubai-sites/static/js/runtime-main.15682dff.js",
-    "static/css/2.c430dd23.chunk.css": "/dubai-sites/static/css/2.c430dd23.chunk.css",
-    "static/js/2.3486f81e.chunk.js": "/dubai-sites/static/js/2.3486f81e.chunk.js",
+    "main.js": "/dubai-sites/static/js/main.44a96b19.chunk.js",
+    "runtime-main.js": "/dubai-sites/static/js/runtime-main.b08c8780.js",
+    "static/css/2.5b3be5c3.chunk.css": "/dubai-sites/static/css/2.5b3be5c3.chunk.css",
+    "static/js/2.dd2373f7.chunk.js": "/dubai-sites/static/js/2.dd2373f7.chunk.js",
     "index.html": "/dubai-sites/index.html",
-    "precache-manifest.c5ad465b9795fe1bc021b4e4aa6e355c.js": "/dubai-sites/precache-manifest.c5ad465b9795fe1bc021b4e4aa6e355c.js",
+    "precache-manifest.3bb8fdc21afc5099f5f79120f517ffa3.js": "/dubai-sites/precache-manifest.3bb8fdc21afc5099f5f79120f517ffa3.js",
     "service-worker.js": "/dubai-sites/service-worker.js",
     "static/media/index.css": "/dubai-sites/static/media/Muller-Thin.c5e7045e.ttf",
     "static/media/map.png": "/dubai-sites/static/media/map.eb76c5c6.png",
@@ -16,10 +16,10 @@
     "static/media/top-banner.png": "/dubai-sites/static/media/top-banner.2e63b312.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.15682dff.js",
-    "static/css/2.c430dd23.chunk.css",
-    "static/js/2.3486f81e.chunk.js",
+    "static/js/runtime-main.b08c8780.js",
+    "static/css/2.5b3be5c3.chunk.css",
+    "static/js/2.dd2373f7.chunk.js",
     "static/css/main.7debf3a4.chunk.css",
-    "static/js/main.fd1ad1ec.chunk.js"
+    "static/js/main.44a96b19.chunk.js"
   ]
 }
