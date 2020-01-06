@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b1a69dc28f302105c5aa4ba250d37b0e",
+    "revision": "e279b0f7f0fbbdb9f9c2a65c9809e639",
     "url": "/dubai-sites/index.html"
   },
   {
-    "revision": "28a27d53ba706495257e",
+    "revision": "b4312d0a25077db2363a",
     "url": "/dubai-sites/static/css/2.c430dd23.chunk.css"
   },
   {
-    "revision": "2e24a4c518db385deec1",
-    "url": "/dubai-sites/static/css/main.288db7d0.chunk.css"
+    "revision": "e956b2fb903645a985af",
+    "url": "/dubai-sites/static/css/main.7debf3a4.chunk.css"
   },
   {
-    "revision": "28a27d53ba706495257e",
-    "url": "/dubai-sites/static/js/2.5b8e82dd.chunk.js"
+    "revision": "b4312d0a25077db2363a",
+    "url": "/dubai-sites/static/js/2.3486f81e.chunk.js"
   },
   {
-    "revision": "2e24a4c518db385deec1",
-    "url": "/dubai-sites/static/js/main.0c0ecc8b.chunk.js"
+    "revision": "e956b2fb903645a985af",
+    "url": "/dubai-sites/static/js/main.fd1ad1ec.chunk.js"
   },
   {
     "revision": "afb0591a20f71ba5b15c",
@@ -36,20 +36,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dubai-sites/static/media/Muller-Thin.c5e7045e.ttf"
   },
   {
-    "revision": "beb7ed7f52dad161a9a943ac9acaef78",
-    "url": "/dubai-sites/static/media/gold.beb7ed7f.png"
+    "revision": "eb76c5c683147af022520e8f55662eb6",
+    "url": "/dubai-sites/static/media/map.eb76c5c6.png"
   },
   {
-    "revision": "dc0d762727c0dea4a91c41db0d6268d8",
-    "url": "/dubai-sites/static/media/map.dc0d7627.png"
-  },
-  {
-    "revision": "3184c77ad84ec5ec8d755a04b3123413",
-    "url": "/dubai-sites/static/media/quest-map.3184c77a.png"
-  },
-  {
-    "revision": "4b2e7d859e5de7c958c349bdfd89aca7",
-    "url": "/dubai-sites/static/media/silver.4b2e7d85.png"
+    "revision": "5042b04498c667126609b79a0f132fe6",
+    "url": "/dubai-sites/static/media/quest-map.5042b044.png"
   },
   {
     "revision": "b7c9e1e479de3b53f1e4e30ebac2403a",
@@ -68,7 +60,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dubai-sites/static/media/slick.f97e3bbf.svg"
   },
   {
-    "revision": "c080c3191b65b2c015446f3eb5535721",
-    "url": "/dubai-sites/static/media/top-banner.c080c319.png"
+    "revision": "e71ad71fa87e88ba9985d6f5f9aeeb5a",
+    "url": "/dubai-sites/static/media/sponsors.e71ad71f.png"
+  },
+  {
+    "revision": "2e63b3122589ea3f4700a52b4c611a5b",
+    "url": "/dubai-sites/static/media/top-banner.2e63b312.png"
   }
 ]);

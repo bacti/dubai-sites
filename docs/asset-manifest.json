@@ -1,24 +1,25 @@
 {
   "files": {
     "main.css": "/dubai-sites/static/css/main.7debf3a4.chunk.css",
-    "main.js": "/dubai-sites/static/js/main.8ed00637.chunk.js",
+    "main.js": "/dubai-sites/static/js/main.fd1ad1ec.chunk.js",
     "runtime-main.js": "/dubai-sites/static/js/runtime-main.15682dff.js",
     "static/css/2.c430dd23.chunk.css": "/dubai-sites/static/css/2.c430dd23.chunk.css",
-    "static/js/2.5b8e82dd.chunk.js": "/dubai-sites/static/js/2.5b8e82dd.chunk.js",
+    "static/js/2.3486f81e.chunk.js": "/dubai-sites/static/js/2.3486f81e.chunk.js",
     "index.html": "/dubai-sites/index.html",
-    "precache-manifest.c456aa7b73a6e3f2738fff19db2dde56.js": "/dubai-sites/precache-manifest.c456aa7b73a6e3f2738fff19db2dde56.js",
+    "precache-manifest.c5ad465b9795fe1bc021b4e4aa6e355c.js": "/dubai-sites/precache-manifest.c5ad465b9795fe1bc021b4e4aa6e355c.js",
     "service-worker.js": "/dubai-sites/service-worker.js",
     "static/media/index.css": "/dubai-sites/static/media/Muller-Thin.c5e7045e.ttf",
-    "static/media/map.png": "/dubai-sites/static/media/map.a2c26bd1.png",
+    "static/media/map.png": "/dubai-sites/static/media/map.eb76c5c6.png",
     "static/media/quest-map.png": "/dubai-sites/static/media/quest-map.5042b044.png",
     "static/media/slick-theme.css": "/dubai-sites/static/media/slick.f97e3bbf.svg",
+    "static/media/sponsors.png": "/dubai-sites/static/media/sponsors.e71ad71f.png",
     "static/media/top-banner.png": "/dubai-sites/static/media/top-banner.2e63b312.png"
   },
   "entrypoints": [
     "static/js/runtime-main.15682dff.js",
     "static/css/2.c430dd23.chunk.css",
-    "static/js/2.5b8e82dd.chunk.js",
+    "static/js/2.3486f81e.chunk.js",
     "static/css/main.7debf3a4.chunk.css",
-    "static/js/main.8ed00637.chunk.js"
+    "static/js/main.fd1ad1ec.chunk.js"
   ]
 }
