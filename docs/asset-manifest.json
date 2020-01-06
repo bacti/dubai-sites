@@ -1,26 +1,24 @@
 {
   "files": {
-    "main.css": "/dubai-sites/static/css/main.288db7d0.chunk.css",
-    "main.js": "/dubai-sites/static/js/main.0c0ecc8b.chunk.js",
+    "main.css": "/dubai-sites/static/css/main.7debf3a4.chunk.css",
+    "main.js": "/dubai-sites/static/js/main.8ed00637.chunk.js",
     "runtime-main.js": "/dubai-sites/static/js/runtime-main.15682dff.js",
     "static/css/2.c430dd23.chunk.css": "/dubai-sites/static/css/2.c430dd23.chunk.css",
     "static/js/2.5b8e82dd.chunk.js": "/dubai-sites/static/js/2.5b8e82dd.chunk.js",
     "index.html": "/dubai-sites/index.html",
-    "precache-manifest.76d12b86c78298c3b0522f5effe3beea.js": "/dubai-sites/precache-manifest.76d12b86c78298c3b0522f5effe3beea.js",
+    "precache-manifest.c456aa7b73a6e3f2738fff19db2dde56.js": "/dubai-sites/precache-manifest.c456aa7b73a6e3f2738fff19db2dde56.js",
     "service-worker.js": "/dubai-sites/service-worker.js",
     "static/media/index.css": "/dubai-sites/static/media/Muller-Thin.c5e7045e.ttf",
-    "static/media/gold.png": "/dubai-sites/static/media/gold.beb7ed7f.png",
-    "static/media/map.png": "/dubai-sites/static/media/map.dc0d7627.png",
-    "static/media/quest-map.png": "/dubai-sites/static/media/quest-map.3184c77a.png",
-    "static/media/silver.png": "/dubai-sites/static/media/silver.4b2e7d85.png",
+    "static/media/map.png": "/dubai-sites/static/media/map.a2c26bd1.png",
+    "static/media/quest-map.png": "/dubai-sites/static/media/quest-map.5042b044.png",
     "static/media/slick-theme.css": "/dubai-sites/static/media/slick.f97e3bbf.svg",
-    "static/media/top-banner.png": "/dubai-sites/static/media/top-banner.c080c319.png"
+    "static/media/top-banner.png": "/dubai-sites/static/media/top-banner.2e63b312.png"
   },
   "entrypoints": [
     "static/js/runtime-main.15682dff.js",
     "static/css/2.c430dd23.chunk.css",
     "static/js/2.5b8e82dd.chunk.js",
-    "static/css/main.288db7d0.chunk.css",
-    "static/js/main.0c0ecc8b.chunk.js"
+    "static/css/main.7debf3a4.chunk.css",
+    "static/js/main.8ed00637.chunk.js"
   ]
 }
