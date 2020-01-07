@@ -1,26 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.ca7b15ad.chunk.css",
-    "main.js": "/static/js/main.cbcd0357.chunk.js",
-    "runtime-main.js": "/static/js/runtime-main.84cacbe9.js",
+    "main.css": "/static/css/main.afe8f376.chunk.css",
+    "main.js": "/static/js/main.700be447.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.96259616.js",
     "static/css/2.76740edc.chunk.css": "/static/css/2.76740edc.chunk.css",
-    "static/js/2.823836df.chunk.js": "/static/js/2.823836df.chunk.js",
+    "static/js/2.6d4e8ece.chunk.js": "/static/js/2.6d4e8ece.chunk.js",
     "index.html": "/index.html",
-    "precache-manifest.ddb1736e8a0f09408e2d0624d04db856.js": "/precache-manifest.ddb1736e8a0f09408e2d0624d04db856.js",
+    "precache-manifest.da8498067ef1e76d4a9a31224744e0b2.js": "/precache-manifest.da8498067ef1e76d4a9a31224744e0b2.js",
     "service-worker.js": "/service-worker.js",
     "static/media/index.css": "/static/media/Muller-Thin.c5e7045e.ttf",
-    "static/media/gold.png": "/static/media/gold.beb7ed7f.png",
-    "static/media/map.png": "/static/media/map.dc0d7627.png",
-    "static/media/quest-map.png": "/static/media/quest-map.3184c77a.png",
-    "static/media/silver.png": "/static/media/silver.4b2e7d85.png",
+    "static/media/map.png": "/static/media/map.eb76c5c6.png",
+    "static/media/quest-map.png": "/static/media/quest-map.5042b044.png",
     "static/media/slick-theme.css": "/static/media/slick.f97e3bbf.svg",
-    "static/media/top-banner.png": "/static/media/top-banner.c080c319.png"
+    "static/media/sponsors.png": "/static/media/sponsors.e71ad71f.png",
+    "static/media/top-banner.png": "/static/media/top-banner.2e63b312.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.84cacbe9.js",
+    "static/js/runtime-main.96259616.js",
     "static/css/2.76740edc.chunk.css",
-    "static/js/2.823836df.chunk.js",
-    "static/css/main.ca7b15ad.chunk.css",
-    "static/js/main.cbcd0357.chunk.js"
+    "static/js/2.6d4e8ece.chunk.js",
+    "static/css/main.afe8f376.chunk.css",
+    "static/js/main.700be447.chunk.js"
   ]
 }
