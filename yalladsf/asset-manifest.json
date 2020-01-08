@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/static/css/main.afe8f376.chunk.css",
-    "main.js": "/static/js/main.700be447.chunk.js",
+    "main.js": "/static/js/main.0f281ead.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.96259616.js",
     "static/css/2.76740edc.chunk.css": "/static/css/2.76740edc.chunk.css",
-    "static/js/2.6d4e8ece.chunk.js": "/static/js/2.6d4e8ece.chunk.js",
+    "static/js/2.67975718.chunk.js": "/static/js/2.67975718.chunk.js",
     "index.html": "/index.html",
-    "precache-manifest.da8498067ef1e76d4a9a31224744e0b2.js": "/precache-manifest.da8498067ef1e76d4a9a31224744e0b2.js",
+    "precache-manifest.4e765c3a6fa164aecb07d0ad70e2ca0b.js": "/precache-manifest.4e765c3a6fa164aecb07d0ad70e2ca0b.js",
     "service-worker.js": "/service-worker.js",
     "static/media/index.css": "/static/media/Muller-Thin.c5e7045e.ttf",
     "static/media/map.png": "/static/media/map.eb76c5c6.png",
     "static/media/quest-map.png": "/static/media/quest-map.5042b044.png",
     "static/media/slick-theme.css": "/static/media/slick.f97e3bbf.svg",
-    "static/media/sponsors.png": "/static/media/sponsors.e71ad71f.png",
+    "static/media/sponsors.png": "/static/media/sponsors.7929ed5b.png",
     "static/media/top-banner.png": "/static/media/top-banner.2e63b312.png"
   },
   "entrypoints": [
     "static/js/runtime-main.96259616.js",
     "static/css/2.76740edc.chunk.css",
-    "static/js/2.6d4e8ece.chunk.js",
+    "static/js/2.67975718.chunk.js",
     "static/css/main.afe8f376.chunk.css",
-    "static/js/main.700be447.chunk.js"
+    "static/js/main.0f281ead.chunk.js"
   ]
 }
