@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.afe8f376.chunk.css",
-    "main.js": "/static/js/main.17d7613d.chunk.js",
+    "main.js": "/static/js/main.59572160.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.96259616.js",
-    "static/css/2.f8d3e0cc.chunk.css": "/static/css/2.f8d3e0cc.chunk.css",
-    "static/js/2.87692124.chunk.js": "/static/js/2.87692124.chunk.js",
+    "static/css/2.76740edc.chunk.css": "/static/css/2.76740edc.chunk.css",
+    "static/js/2.6db72e0a.chunk.js": "/static/js/2.6db72e0a.chunk.js",
     "index.html": "/index.html",
-    "precache-manifest.e6ec398910989a2d55674ff9eb6f4aeb.js": "/precache-manifest.e6ec398910989a2d55674ff9eb6f4aeb.js",
+    "precache-manifest.3c64e5de6392d2a570888905e790c6b1.js": "/precache-manifest.3c64e5de6392d2a570888905e790c6b1.js",
     "service-worker.js": "/service-worker.js",
     "static/media/index.css": "/static/media/Muller-Thin.c5e7045e.ttf",
     "static/media/map.png": "/static/media/map.eb76c5c6.png",
@@ -17,9 +17,9 @@
   },
   "entrypoints": [
     "static/js/runtime-main.96259616.js",
-    "static/css/2.f8d3e0cc.chunk.css",
-    "static/js/2.87692124.chunk.js",
+    "static/css/2.76740edc.chunk.css",
+    "static/js/2.6db72e0a.chunk.js",
     "static/css/main.afe8f376.chunk.css",
-    "static/js/main.17d7613d.chunk.js"
+    "static/js/main.59572160.chunk.js"
   ]
 }
