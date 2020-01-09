@@ -1,27 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3cbd6e5dac5b3ad66601aa5cadca816f",
+    "revision": "bac13bcbf9626f5fd9842b3ba8ac135b",
     "url": "/dubai-sites/index.html"
   },
   {
-    "revision": "d925c0b7afed3075c12a",
+    "revision": "5a87e16ccfcb7f4a8711",
     "url": "/dubai-sites/static/css/2.5b3be5c3.chunk.css"
   },
   {
-    "revision": "91788a361d3c920ab57d",
-    "url": "/dubai-sites/static/css/main.008cfe9d.chunk.css"
+    "revision": "1c502487d962581ea14c",
+    "url": "/dubai-sites/static/css/main.9f601e74.chunk.css"
   },
   {
-    "revision": "d925c0b7afed3075c12a",
-    "url": "/dubai-sites/static/js/2.6a498fed.chunk.js"
+    "revision": "5a87e16ccfcb7f4a8711",
+    "url": "/dubai-sites/static/js/2.fb3d5611.chunk.js"
   },
   {
-    "revision": "91788a361d3c920ab57d",
-    "url": "/dubai-sites/static/js/main.7fa4ef44.chunk.js"
+    "revision": "1c502487d962581ea14c",
+    "url": "/dubai-sites/static/js/main.912dc455.chunk.js"
   },
   {
-    "revision": "afb0591a20f71ba5b15c",
-    "url": "/dubai-sites/static/js/runtime-main.15682dff.js"
+    "revision": "b156a659c51faffb0d4f",
+    "url": "/dubai-sites/static/js/runtime-main.b08c8780.js"
+  },
+  {
+    "revision": "f07d3a3d3b03233b29ab48a08808208e",
+    "url": "/dubai-sites/static/media/GE SS Two Bold.f07d3a3d.otf"
+  },
+  {
+    "revision": "db409ed6c63285382676396dc4385f64",
+    "url": "/dubai-sites/static/media/GESSTwoMedium-Medium.db409ed6.otf"
   },
   {
     "revision": "bbd685e14060095831812a8e9a4168c4",
@@ -32,12 +40,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dubai-sites/static/media/Muller-Regular.6a3d9ea8.ttf"
   },
   {
-    "revision": "c5e7045e0f4fe589b8690bf4c26b4b9b",
-    "url": "/dubai-sites/static/media/Muller-Thin.c5e7045e.ttf"
-  },
-  {
     "revision": "eb76c5c683147af022520e8f55662eb6",
     "url": "/dubai-sites/static/media/map.eb76c5c6.png"
+  },
+  {
+    "revision": "72d92e6866eec8dd8a5a32d31272be0c",
+    "url": "/dubai-sites/static/media/quest-map-rtl.72d92e68.png"
   },
   {
     "revision": "5042b04498c667126609b79a0f132fe6",
