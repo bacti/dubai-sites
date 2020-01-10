@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/2093/sites/visitdubai/gold_candidate/precache-manifest.ace84aec7338879c082ec0446f73361a.js"
+  "/2093/sites/visitdubai/gold_candidate/precache-manifest.aec5701c600d7539bf0fd59b6ea02181.js"
 );
 
 self.addEventListener('message', (event) => {

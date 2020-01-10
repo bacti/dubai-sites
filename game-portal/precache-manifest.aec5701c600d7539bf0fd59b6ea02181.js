@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5c95c7f63b5b8c478487d9fe8fc63caa",
+    "revision": "6cdf01e2cf6755c86452280a779b97f1",
     "url": "/2093/sites/visitdubai/gold_candidate/index.html"
   },
   {
-    "revision": "fa4119baba0784bc0b5c",
+    "revision": "b2a9c18ba25ca78d3653",
     "url": "/2093/sites/visitdubai/gold_candidate/static/css/2.473a0188.chunk.css"
   },
   {
-    "revision": "409fd6ac50f8b7319c21",
+    "revision": "77ab9093e31c1d7cacd9",
     "url": "/2093/sites/visitdubai/gold_candidate/static/css/main.e333a35d.chunk.css"
   },
   {
-    "revision": "fa4119baba0784bc0b5c",
-    "url": "/2093/sites/visitdubai/gold_candidate/static/js/2.203864bb.chunk.js"
+    "revision": "b2a9c18ba25ca78d3653",
+    "url": "/2093/sites/visitdubai/gold_candidate/static/js/2.2f4c9b18.chunk.js"
   },
   {
-    "revision": "409fd6ac50f8b7319c21",
-    "url": "/2093/sites/visitdubai/gold_candidate/static/js/main.7b3e05f6.chunk.js"
+    "revision": "77ab9093e31c1d7cacd9",
+    "url": "/2093/sites/visitdubai/gold_candidate/static/js/main.a6f9280a.chunk.js"
   },
   {
     "revision": "51086c6ae2858fd33733",
