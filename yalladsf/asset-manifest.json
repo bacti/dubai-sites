@@ -1,25 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.afe8f376.chunk.css",
-    "main.js": "/static/js/main.9a627242.chunk.js",
-    "runtime-main.js": "/static/js/runtime-main.96259616.js",
+    "main.css": "/static/css/main.fcf35474.chunk.css",
+    "main.js": "/static/js/main.efe1d408.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.84cacbe9.js",
     "static/css/2.76740edc.chunk.css": "/static/css/2.76740edc.chunk.css",
-    "static/js/2.2a3b56e9.chunk.js": "/static/js/2.2a3b56e9.chunk.js",
+    "static/js/2.ffb67bb1.chunk.js": "/static/js/2.ffb67bb1.chunk.js",
     "index.html": "/index.html",
-    "precache-manifest.05d85cb117c1c8095d73c9be43f681a9.js": "/precache-manifest.05d85cb117c1c8095d73c9be43f681a9.js",
+    "precache-manifest.7911024958bd4c6ea28735079370594a.js": "/precache-manifest.7911024958bd4c6ea28735079370594a.js",
     "service-worker.js": "/service-worker.js",
-    "static/media/index.css": "/static/media/Muller-Thin.c5e7045e.ttf",
+    "static/media/index.css": "/static/media/Muller-Regular.6a3d9ea8.ttf",
     "static/media/map.png": "/static/media/map.eb76c5c6.png",
+    "static/media/quest-map-rtl.png": "/static/media/quest-map-rtl.72d92e68.png",
     "static/media/quest-map.png": "/static/media/quest-map.5042b044.png",
     "static/media/slick-theme.css": "/static/media/slick.f97e3bbf.svg",
     "static/media/sponsors.png": "/static/media/sponsors.7929ed5b.png",
     "static/media/top-banner.png": "/static/media/top-banner.2e63b312.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.96259616.js",
+    "static/js/runtime-main.84cacbe9.js",
     "static/css/2.76740edc.chunk.css",
-    "static/js/2.2a3b56e9.chunk.js",
-    "static/css/main.afe8f376.chunk.css",
-    "static/js/main.9a627242.chunk.js"
+    "static/js/2.ffb67bb1.chunk.js",
+    "static/css/main.fcf35474.chunk.css",
+    "static/js/main.efe1d408.chunk.js"
   ]
 }
