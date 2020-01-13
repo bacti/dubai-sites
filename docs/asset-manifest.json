@@ -1,15 +1,17 @@
 {
   "files": {
-    "main.css": "/dubai-sites/static/css/main.008cfe9d.chunk.css",
-    "main.js": "/dubai-sites/static/js/main.7fa4ef44.chunk.js",
+    "main.css": "/dubai-sites/static/css/main.fed50877.chunk.css",
+    "main.js": "/dubai-sites/static/js/main.dbfca2ac.chunk.js",
     "runtime-main.js": "/dubai-sites/static/js/runtime-main.15682dff.js",
-    "static/css/2.5b3be5c3.chunk.css": "/dubai-sites/static/css/2.5b3be5c3.chunk.css",
-    "static/js/2.6a498fed.chunk.js": "/dubai-sites/static/js/2.6a498fed.chunk.js",
+    "static/css/2.c430dd23.chunk.css": "/dubai-sites/static/css/2.c430dd23.chunk.css",
+    "static/js/2.352eb0e7.chunk.js": "/dubai-sites/static/js/2.352eb0e7.chunk.js",
     "index.html": "/dubai-sites/index.html",
-    "precache-manifest.6c21910c0d9fc22a2206026051b9e356.js": "/dubai-sites/precache-manifest.6c21910c0d9fc22a2206026051b9e356.js",
+    "precache-manifest.8fa9d75dac859ae77766e01eb8b20476.js": "/dubai-sites/precache-manifest.8fa9d75dac859ae77766e01eb8b20476.js",
     "service-worker.js": "/dubai-sites/service-worker.js",
-    "static/media/index.css": "/dubai-sites/static/media/Muller-Thin.c5e7045e.ttf",
+    "static/media/index.css": "/dubai-sites/static/media/NotoSans-Regular.5a87cce8.ttf",
+    "static/media/logo-club-apparel.png": "/dubai-sites/static/media/logo-club-apparel.53cdca18.png",
     "static/media/map.png": "/dubai-sites/static/media/map.eb76c5c6.png",
+    "static/media/quest-map-rtl.png": "/dubai-sites/static/media/quest-map-rtl.72d92e68.png",
     "static/media/quest-map.png": "/dubai-sites/static/media/quest-map.5042b044.png",
     "static/media/slick-theme.css": "/dubai-sites/static/media/slick.f97e3bbf.svg",
     "static/media/sponsors.png": "/dubai-sites/static/media/sponsors.7929ed5b.png",
@@ -17,9 +19,9 @@
   },
   "entrypoints": [
     "static/js/runtime-main.15682dff.js",
-    "static/css/2.5b3be5c3.chunk.css",
-    "static/js/2.6a498fed.chunk.js",
-    "static/css/main.008cfe9d.chunk.css",
-    "static/js/main.7fa4ef44.chunk.js"
+    "static/css/2.c430dd23.chunk.css",
+    "static/js/2.352eb0e7.chunk.js",
+    "static/css/main.fed50877.chunk.css",
+    "static/js/main.dbfca2ac.chunk.js"
   ]
 }
