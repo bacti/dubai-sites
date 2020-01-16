@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "85cafaf135ec6a3e2b8ce6e91e2adbe7",
+    "revision": "8404670e14088aeaca813e06ca9057a3",
     "url": "/dubai-sites/index.html"
   },
   {
-    "revision": "cc412b88a9472b2ca460",
-    "url": "/dubai-sites/static/css/2.c430dd23.chunk.css"
+    "revision": "193490bd699a85f0c7f3",
+    "url": "/dubai-sites/static/css/2.5b3be5c3.chunk.css"
   },
   {
-    "revision": "84eb864fcd3bed5f9cde",
+    "revision": "ae35a4476ec3223e8883",
     "url": "/dubai-sites/static/css/main.fed50877.chunk.css"
   },
   {
-    "revision": "cc412b88a9472b2ca460",
-    "url": "/dubai-sites/static/js/2.352eb0e7.chunk.js"
+    "revision": "193490bd699a85f0c7f3",
+    "url": "/dubai-sites/static/js/2.aeeed38f.chunk.js"
   },
   {
-    "revision": "84eb864fcd3bed5f9cde",
-    "url": "/dubai-sites/static/js/main.dbfca2ac.chunk.js"
+    "revision": "ae35a4476ec3223e8883",
+    "url": "/dubai-sites/static/js/main.e8ecf1f7.chunk.js"
   },
   {
     "revision": "afb0591a20f71ba5b15c",
@@ -48,16 +48,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dubai-sites/static/media/NotoSans-Regular.5a87cce8.ttf"
   },
   {
-    "revision": "53cdca18fd9496bdc6153d927d1fc97c",
-    "url": "/dubai-sites/static/media/logo-club-apparel.53cdca18.png"
+    "revision": "06df06ecdee1daa341d89983ca85f71c",
+    "url": "/dubai-sites/static/media/map.06df06ec.png"
   },
   {
-    "revision": "eb76c5c683147af022520e8f55662eb6",
-    "url": "/dubai-sites/static/media/map.eb76c5c6.png"
-  },
-  {
-    "revision": "72d92e6866eec8dd8a5a32d31272be0c",
-    "url": "/dubai-sites/static/media/quest-map-rtl.72d92e68.png"
+    "revision": "9757577e9c1d6da8674209ac8ebd30be",
+    "url": "/dubai-sites/static/media/quest-map-rtl.9757577e.png"
   },
   {
     "revision": "5042b04498c667126609b79a0f132fe6",
@@ -80,11 +76,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dubai-sites/static/media/slick.f97e3bbf.svg"
   },
   {
-    "revision": "7929ed5bc2d2ef5fe5aa9cea225a5556",
-    "url": "/dubai-sites/static/media/sponsors.7929ed5b.png"
+    "revision": "3817ffdd470135f04d3aaa017c9b2452",
+    "url": "/dubai-sites/static/media/sponsors.3817ffdd.png"
   },
   {
     "revision": "2e63b3122589ea3f4700a52b4c611a5b",
     "url": "/dubai-sites/static/media/top-banner.2e63b312.png"
+  },
+  {
+    "revision": "0059c9d74c411c0792931db88c96eabb",
+    "url": "/dubai-sites/static/media/voucher-rtl.0059c9d7.png"
   }
 ]);
