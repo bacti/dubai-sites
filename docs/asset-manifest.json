@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/dubai-sites/static/css/main.fed50877.chunk.css",
-    "main.js": "/dubai-sites/static/js/main.c2e05102.chunk.js",
+    "main.js": "/dubai-sites/static/js/main.d3a1beb8.chunk.js",
     "runtime-main.js": "/dubai-sites/static/js/runtime-main.15682dff.js",
     "static/css/2.c430dd23.chunk.css": "/dubai-sites/static/css/2.c430dd23.chunk.css",
     "static/js/2.4eb4f269.chunk.js": "/dubai-sites/static/js/2.4eb4f269.chunk.js",
     "index.html": "/dubai-sites/index.html",
-    "precache-manifest.de4d8c3f3b3684266e33c1f1fbc9d583.js": "/dubai-sites/precache-manifest.de4d8c3f3b3684266e33c1f1fbc9d583.js",
+    "precache-manifest.a367ed5eac7b19a738c168dadea21cbb.js": "/dubai-sites/precache-manifest.a367ed5eac7b19a738c168dadea21cbb.js",
     "service-worker.js": "/dubai-sites/service-worker.js",
     "static/media/index.css": "/dubai-sites/static/media/NotoSans-Regular.5a87cce8.ttf",
     "static/media/map.png": "/dubai-sites/static/media/map.7e043bb1.png",
@@ -22,6 +22,6 @@
     "static/css/2.c430dd23.chunk.css",
     "static/js/2.4eb4f269.chunk.js",
     "static/css/main.fed50877.chunk.css",
-    "static/js/main.c2e05102.chunk.js"
+    "static/js/main.d3a1beb8.chunk.js"
   ]
 }
