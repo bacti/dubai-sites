@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/dubai-sites/static/css/main.fed50877.chunk.css",
-    "main.js": "/dubai-sites/static/js/main.e8ecf1f7.chunk.js",
+    "main.js": "/dubai-sites/static/js/main.fdd5a763.chunk.js",
     "runtime-main.js": "/dubai-sites/static/js/runtime-main.15682dff.js",
-    "static/css/2.5b3be5c3.chunk.css": "/dubai-sites/static/css/2.5b3be5c3.chunk.css",
-    "static/js/2.aeeed38f.chunk.js": "/dubai-sites/static/js/2.aeeed38f.chunk.js",
+    "static/css/2.c430dd23.chunk.css": "/dubai-sites/static/css/2.c430dd23.chunk.css",
+    "static/js/2.4eb4f269.chunk.js": "/dubai-sites/static/js/2.4eb4f269.chunk.js",
     "index.html": "/dubai-sites/index.html",
-    "precache-manifest.528ff59f4f33af75f7ee1f74b9e40f48.js": "/dubai-sites/precache-manifest.528ff59f4f33af75f7ee1f74b9e40f48.js",
+    "precache-manifest.dd1004090ee0d4cb82e15b92a27f8802.js": "/dubai-sites/precache-manifest.dd1004090ee0d4cb82e15b92a27f8802.js",
     "service-worker.js": "/dubai-sites/service-worker.js",
     "static/media/index.css": "/dubai-sites/static/media/NotoSans-Regular.5a87cce8.ttf",
-    "static/media/map.png": "/dubai-sites/static/media/map.06df06ec.png",
+    "static/media/map.png": "/dubai-sites/static/media/map.7e043bb1.png",
     "static/media/quest-map-rtl.png": "/dubai-sites/static/media/quest-map-rtl.9757577e.png",
     "static/media/quest-map.png": "/dubai-sites/static/media/quest-map.5042b044.png",
     "static/media/slick-theme.css": "/dubai-sites/static/media/slick.f97e3bbf.svg",
@@ -19,9 +19,9 @@
   },
   "entrypoints": [
     "static/js/runtime-main.15682dff.js",
-    "static/css/2.5b3be5c3.chunk.css",
-    "static/js/2.aeeed38f.chunk.js",
+    "static/css/2.c430dd23.chunk.css",
+    "static/js/2.4eb4f269.chunk.js",
     "static/css/main.fed50877.chunk.css",
-    "static/js/main.e8ecf1f7.chunk.js"
+    "static/js/main.fdd5a763.chunk.js"
   ]
 }
